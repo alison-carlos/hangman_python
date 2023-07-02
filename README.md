@@ -6,8 +6,7 @@ At each turn, the player guesses a letter. If the letter is present in the word,
 
 To run this project please follow these steps:
 
-1. Install the required dependencies by running the following command:
-
+1. Install the required dependencies by running the following command: `pip install -r requirements.txt`
 
 2. Run the `main.py` file to start the Hangman game:
 
