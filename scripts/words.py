@@ -13,14 +13,14 @@ words = [
     "sanduiche",
     "coxinha",
     "sopa",
-    "peixe grelhado",
+    "peixe",
     "feijoada",
     "strogonoff",
     "risoto",
-    "batata frita",
-    "camarao a milanesa",
+    "batata",
+    "camarao",
     "picanha",
-    "torta de maca"
+    "torta"
 ]
 
 # Board
