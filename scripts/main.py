@@ -1,5 +1,5 @@
-from hangman import *
+from menu import *
 
 if __name__ == "__main__":
-    hangman = Hangman()
-    hangman.start_game()
+    menu = Menu()
+    menu.run_game()
